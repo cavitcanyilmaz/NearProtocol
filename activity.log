@@ -57,3 +57,4 @@
 2025-10-02T15:05:05 | touched: package.json
 2026-01-13T17:04:02 | touched: test/Nearprotocol.test.js
 2025-08-11T03:00:47 | touched: hardhat.config.js
+2026-01-03T15:09:20 | touched: scripts/deploy.js
